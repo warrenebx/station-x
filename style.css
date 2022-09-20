@@ -10,7 +10,8 @@ body {
 .Station {
   font-family: 'Montserrat', sans-serif;
   font-size: 3em;
-  color: rgb(2, 2, 2);
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px black;
   text-align: center;
   padding-top: 30px;
 
@@ -106,7 +107,8 @@ footer {
   font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
   font-size: 1.5em;
-  color: rgb(2, 2, 2);
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px rgb(0, 0, 0);
   text-align: center;
   padding-top: 50px;
 }
